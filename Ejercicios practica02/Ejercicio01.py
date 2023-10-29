@@ -1,3 +1,6 @@
+"""
+Bien!
+"""
 def busqueda_binaria_elemento_duplicado(arr, objetivo, encontrar_ultimo=False):
     bajo = 0
     alto = len(arr) - 1
